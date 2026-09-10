@@ -10,8 +10,8 @@ A comprehensive Power BI project demonstrating advanced DAX (Data Analysis Expre
 |---|---|
 | Tool | Microsoft Power BI Desktop |
 | File | DAX_Depo.pbix |
-| Student | Ravindra Kumar |
-| GR ID | 11638 |
+| Student | prachi bhalodi |
+| GR ID | 11727 |
 | Total Tables | 7 (2 Fact + 4 Dimension + 1 Measures Table) |
 | Report Page | Matrix_Visuals |
 | Schema Type | Star Schema |
